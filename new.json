@@ -1,1 +1,7 @@
-1-st json file
+{
+	"First_name" : "Eugene",
+	"Last_name"  : "Petrov",
+	"Patromymic" : "Michailovich",
+	"Pets" : 1,
+	"Salary" : 1000000$
+}
