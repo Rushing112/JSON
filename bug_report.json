@@ -1,1 +1,17 @@
-
+{
+    "ID" : 1,
+    "Summary" : "Product description does not open on the product page",
+    "Description" : [
+      "Select a product",
+      "Go to product page",
+      "Open product discription"
+      ]
+    "Expected result" : "Discription is open",
+    "Actual result" : "Discripton will not open",
+    "Priority" : "High",
+    "Severity" : "Major",
+    "Environment" : [
+      "Widows 10",
+      "Google Chrome version 96.0.4664.45"
+  ]
+}
